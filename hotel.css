@@ -1,0 +1,48 @@
+.content1{
+     width:1300px;
+      float:left;
+    }
+.content1-left{
+     width:300px;
+      margin:30px 10px;
+       float:left;
+    }
+.content1-right{ 
+    width:310px; 
+    padding:30px 10px;
+     float:left;
+    }
+.content1-right-h4{ 
+    font-size:17px;
+     font-weight:600;
+      padding:0px 10px;
+       color:#06C;
+    }
+.content1-right-p{
+    color:#333;
+     font-size:14px;
+      padding:5px 10px;
+       line-height:26px;
+    }
+.content1-right-price{
+    font-size:20px;
+     font-weight:bold;
+      color:#F0B604;
+       padding:10px;
+    }
+.content1-right-btn{
+     background:#0474C6;
+      color:#FFF;
+       text-decoration:none;
+        text-align:center;
+         padding:7px 25px; 
+ font-size:16px;
+  border-radius:2px;
+   border:none;
+    margin:10px;
+     float:left;
+    }
+.content1-right-btn:hover{
+     background:#004566;
+      text-decoration:none;
+    }
